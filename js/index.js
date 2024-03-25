@@ -1,4 +1,4 @@
-const BACKEND_ROOT_URL = 'https://todolist-backend-x2ae.onrender.com'
+const BACKEND_ROOT_URL = 'https://todolist-oamk-server.onrender.com'
 // const BACKEND_ROOT_URL = 'http://localhost:3001'
 import { Todos } from "./class/Todos.js"
 
